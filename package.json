@@ -1,0 +1,14 @@
+{
+    "name": "gestion-productos",
+    "version": "1.0.0",
+    "description": "Aplicación simple de administración de productos usando JavaScript y Jest para testing.",
+    "main": "product.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "TuNombre",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^27.5.1"
+    }
+  }
